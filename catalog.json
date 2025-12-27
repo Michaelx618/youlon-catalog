@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2025-12-26",
+  "categories": [
+    {
+      "id": "apple",
+      "title": { "en": "Apple", "zh": "苹果" },
+      "products": [
+        {
+          "id": "apple_itunes",
+          "title": { "en": "App Store / iTunes", "zh": "App Store / iTunes" },
+          "subtitle": { "en": "Top up", "zh": "充值" },
+          "icon": "apple.logo",
+          "options": [
+            {
+              "id": "a100",
+              "title": { "en": "100 CNY", "zh": "100元" },
+              "priceText": { "en": "USD 15.77", "zh": "USD 15.77" },
+              "checkoutURL": "https://www.youlon.com/mgt.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
